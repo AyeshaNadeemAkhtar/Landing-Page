@@ -140,6 +140,7 @@ section 3 clear
 
 .quote {
     font-size: 36px;
+    font-family: "lighter italic";
     font-style:italic;
     color: #1F2937;
     text-align: center;
