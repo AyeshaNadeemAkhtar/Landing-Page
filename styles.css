@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+
+
+/*
+Section 1
+*/
+
+.section1 {
+    background-color: #1F2937;
+    padding: 30px;
+}
+
+
+/*
+clear 
+*/
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link {
+    margin-left: auto;
+}
+
+.seclink {
+    margin-left: 15px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-left: 50px;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.maintext {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.call {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 25px;
+    border: 1px solid #3882F6;
+    font-size: 18px;
+    font-weight: bold;
+}    
+
+
+
+/*
+doubt
+*/
+
+.image {
+    background-color: gray;
+    color: white;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.main {
+    margin: 85px;
+    display: flex;
+}
+
+/*
+section 2
+*/
+
+/*
+clear
+*/
+
+.randinfo {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.section2 {
+    padding: 30px;
+}
+
+/*
+doubt
+*/
+
+.infos > div {
+    width: 150px;
+    height:150px;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    margin: 25px;
+    
+}
+
+.textinfos > p {
+    margin: 0 25px;
+    color: rgb(90, 84, 84);
+}
+
+.infos,
+.textinfos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*
+section 3 clear
+*/
+
+.section3 {
+    background-color: #E5E7EB;
+    padding: 30px;
+    margin: 10px auto;
+}
+
+.quote {
+    font-size: 36px;
+    font-style:italic;
+    color: #1F2937;
+    text-align: center;
+    font-weight:lighter;
+}
+
+.name {
+    margin-left: 710px;
+}
+
+/*
+section 4
+*/
+
+.action {
+    width: 900px;;
+    height: 150px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    margin: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.actioncolor {
+    color: white;
+}
+
+.product {
+    color: rgb(214, 208, 208);
+}
+
+.signup {
+    background-color: #3882F6;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px 25px;
+    font-weight: bold;
+    
+}
+
+/*
+section 5
+*/
+
+.section5
+{
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
